@@ -1,4 +1,4 @@
-# README file banao
+
 echo "# Online Banking System (Java)" > README.md
 echo "Console-based banking system in Java" >> README.md
 
